@@ -25,8 +25,8 @@ Passionnée par l'intersection entre **l'industrie 4.0**, **le data engineering*
 
 | Entreprise | Rôle | Période |
 |---|---|---|
-|  **Zenithsoft Solutions** — Rabat | Développeuse Full-Stack / Data · Dashboard Analytique Financier Temps Réel | Juin – Août 2026 |
-|  **COSUMAR SUTA** — Béni Mellal | Atelier de Régulation · Plateforme GMAO légère (Excel) | Juil 2025 |
+|  **Zenithsoft Solutions**  Rabat | Développeuse Full-Stack / Data · Dashboard Analytique Financier Temps Réel | Juin a Août 2026 |
+|  **COSUMAR SUTA**  Béni Mellal | Atelier de Régulation · Plateforme GMAO légère (Excel) | Juil 2025 |
 
 ---
 
