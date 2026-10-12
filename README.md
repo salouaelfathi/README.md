@@ -6,7 +6,7 @@
 
 ##  About Me
 
-Élève ingénieure en **Transformation Digitale Industrielle** à l'**ENSA Béni Mellal** (Bac+4), complétée par une formation intensive en développement logiciel à **1337 Coding School UM6P **.
+Élève ingénieure en **Transformation Digitale Industrielle** à l'**ENSA Béni Mellal** (Bac+5), complétée par une formation intensive en développement logiciel à **1337 Coding School UM6P **.
 
 Passionnée par l'intersection entre **l'industrie 4.0**, **le data engineering**, et **le développement logiciel**, j'ai eu l'opportunité de concevoir une plateforme de dashboard analytique financier temps réel (Full-Stack / Data) lors de mon stage PFA chez **Zenithsoft Solutions**, ainsi qu'une solution de GMAO légère chez **COSUMAR SUTA**.
 
